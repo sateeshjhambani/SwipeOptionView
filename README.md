@@ -19,6 +19,5 @@ dependencies {
 	}
   ```
 
-![SwipeOptionViewDemo](https://user-images.githubusercontent.com/60574717/191350999-ed95a717-85bb-4343-9fb5-7786dabd5390.gif)
-
+![SwipeOptionViewDemo](https://user-images.githubusercontent.com/60574717/191352404-61022dc4-58b2-4e8a-97a3-9a78544ff890.gif)
 
