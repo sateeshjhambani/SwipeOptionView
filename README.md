@@ -15,7 +15,7 @@ allprojects {
 > Step 2. Add the dependency
 ```Gradle (app)
 dependencies {
-	        implementation 'com.github.sateeshjhambani:SwipeOptionView:Tag'
+	        implementation 'com.github.sateeshjhambani:SwipeOptionView:v1.1.0'
 	}
   ```
 
